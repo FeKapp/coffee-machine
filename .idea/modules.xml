@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine_(Java).iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine_(Java).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (Java)/task/Coffee_Machine_(Java).Coffee_Machine__Java_-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (Java)/task/Coffee_Machine_(Java).Coffee_Machine__Java_-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (Java)/task/Coffee_Machine_(Java).Coffee_Machine__Java_-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (Java)/task/Coffee_Machine_(Java).Coffee_Machine__Java_-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (Java)/task/Coffee_Machine_(Java).Coffee_Machine__Java_-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (Java)/task/Coffee_Machine_(Java).Coffee_Machine__Java_-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Coffee_Machine_(Java).Topics-Debugging_techniques-Find_the_error.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Coffee_Machine_(Java).Topics-Debugging_techniques-Find_the_error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Coffee_Machine_(Java).Topics-Debugging_techniques-Find_the_error.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Coffee_Machine_(Java).Topics-Debugging_techniques-Find_the_error.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Coffee_Machine_(Java).Topics-Debugging_techniques-Find_the_error.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Coffee_Machine_(Java).Topics-Debugging_techniques-Find_the_error.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Coffee_Machine_(Java).Topics-Debugging_techniques-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Coffee_Machine_(Java).Topics-Debugging_techniques-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Coffee_Machine_(Java).Topics-Debugging_techniques-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Coffee_Machine_(Java).Topics-Debugging_techniques-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Coffee_Machine_(Java).Topics-Debugging_techniques-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Coffee_Machine_(Java).Topics-Debugging_techniques-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine_(Java).util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine_(Java).util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine_(Java).util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine_(Java).util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine_(Java).util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine_(Java).util.test.iml" />
+    </modules>
+  </component>
+</project>
